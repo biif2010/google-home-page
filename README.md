@@ -1,4 +1,3 @@
-<title>google homepage</title>
-<p>my easy solution html/css project on <a href="http://www.theodinproject.com">the odin project</a></p>
-<p>you can see <a href="(https://htmlpreview.github.io/?https://github.com/biif2010/google-home-page/blob/master/index.html)
-">here</a></p>
+# Google homepage
+my solution for easy version of html/css project on [the odin project](http://www.theodinproject.com/web-development-101/html-css)
+and you can see my page [here](https://htmlpreview.github.io/?https://github.com/biif2010/google-home-page/blob/master/index.html)
